@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
-<br>
-
- <p align="center">
-<img src="https://img.shields.io/badge/Age-19-blue" />
-  <img src="https://img.shields.io/badge/Focus-%20Javascript-brightgreen" />
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Âge-18-blue" /> 
+  <img src="https://img.shields.io/badge/Très bonne maitrise-%20Python-brightgreen" /> 
   <img src="https://img.shields.io/badge/Lives-Lyon-success%22" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20French-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20French-brightgreen" /> 
 </p>
+
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sami Hanine </h1>
+<h1 align="center">Salam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Je suis Jolan Thomassin </h1>
 <h3 align="center">Web developper | IT Student in France </h3>
