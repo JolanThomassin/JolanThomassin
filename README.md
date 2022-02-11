@@ -16,4 +16,4 @@
 
 <hr>
 <h1 align="center">Salut <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Je suis Jolan Thomassin </h1>
-<h3 align="center">Deeloppeur | Étudiant au Canada </h3>
+<h3 align="center">Developpeur | Étudiant au Canada </h3>
