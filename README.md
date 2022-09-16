@@ -28,7 +28,7 @@
 
 <hr>
 <h1 align="center">Je suis Jolan Thomassin, enchanté de faire votre connaissance <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-<h3 align="center"> Développeur | Étudiant au cégep de Matane </h3>
+<h3 align="center"> Développeur | Étudiant à ETS Montréal </h3>
 
 <hr>
 
