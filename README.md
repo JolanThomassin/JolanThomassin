@@ -14,15 +14,16 @@
   
   <img src="https://img.shields.io/badge/PHP-%20Bonne maitrise-green" />
   <img src="https://img.shields.io/badge/Pl/SQL-%20Bonne maitrise-green" />
+  <img src="https://img.shields.io/badge/SQLite-%20Bonne maitrise-green" />
   
   <br>
   
   <img src="https://img.shields.io/badge/C-%20Maitrise-brightgreen" />
+  <img src="https://img.shields.io/badge/C♯-%20Maitrise-brightgreen" />
   <img src="https://img.shields.io/badge/C++-%20Maitrise-brightgreen" />
   
   <br>
   
-  <img src="https://img.shields.io/badge/C♯-%20Apprentissage-blanchedalmond" />
   <img src="https://img.shields.io/badge/Javascript-%20Apprentissage-blanchedalmond" /> 
 </p>
 
