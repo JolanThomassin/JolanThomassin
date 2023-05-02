@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Âge-18-blue" />
+  <img src="https://img.shields.io/badge/Âge-19-blue" />
   <img src="https://img.shields.io/badge/Localisation-Canada-blue" />
   <img src="https://img.shields.io/badge/Langues-Français/Anglais-blue" /> 
   <br>
