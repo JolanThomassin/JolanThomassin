@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/HTML/CSS-%20Très bonne maitrise-lime" />
   <img src="https://img.shields.io/badge/Resolve Dacinci (montage vidéo)-%20Très bonne maitrise-lime" />
   <img src="https://img.shields.io/badge/Algorithmie-%20Très bonne maitrise-lime" />
+  <img src="https://img.shields.io/badge/Java-%20Très bonne maitrise-lime" />
   
   <br>
   
