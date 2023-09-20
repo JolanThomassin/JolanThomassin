@@ -34,5 +34,4 @@
 
 <hr>
 
-![Statistiques de Jolan Thomassin](https://github-readme-stats.vercel.app/api?username=JolanThomassin&show_icons=true&theme=dracula)
 [![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=JolanThomassin&layout=compact&theme=dracula)](https://github.com/JolanThomassin/github-readme-stats)
