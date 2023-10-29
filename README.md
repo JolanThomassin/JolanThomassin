@@ -1,37 +1,14 @@
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Âge-19-blue" />
-  <img src="https://img.shields.io/badge/Localisation-Canada-blue" />
-  <img src="https://img.shields.io/badge/Langues-Français/Anglais-blue" /> 
-  <br>
-  <br>
-  
-  <img src="https://img.shields.io/badge/Python-%20Très bonne maitrise-lime" />
-  <img src="https://img.shields.io/badge/HTML/CSS-%20Très bonne maitrise-lime" />
-  <img src="https://img.shields.io/badge/Resolve Dacinci (montage vidéo)-%20Très bonne maitrise-lime" />
-  <img src="https://img.shields.io/badge/Algorithmie-%20Très bonne maitrise-lime" />
-  <img src="https://img.shields.io/badge/Java-%20Très bonne maitrise-lime" />
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/C♯-%20Bonne maitrise-green" />
-  <img src="https://img.shields.io/badge/PHP-%20Bonne maitrise-green" />
-  <img src="https://img.shields.io/badge/Pl/SQL-%20Bonne maitrise-green" />
-  <img src="https://img.shields.io/badge/SQLite-%20Bonne maitrise-green" />
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/C-%20Maitrise-brightgreen" />
-  <img src="https://img.shields.io/badge/C++-%20Maitrise-brightgreen" />
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/Javascript-%20Apprentissage-blanchedalmond" /> 
-</p>
+![tumblr_okwnk3JfMf1re1fgmo1_640-transformed - Copie](https://github.com/JolanThomassin/JolanThomassin/assets/98430140/335afc53-d8fe-4aba-b9e1-a25503c6fa4d)
 
-<hr>
-<h1 align="center">Je suis Jolan Thomassin, enchanté de faire votre connaissance <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-<h3 align="center"> Développeur | Étudiant à ETS Montréal </h3>
+<h2 align="center"> 🦊 ~ 𝓢𝓴𝓲𝓵𝓵𝓼 ~ 🦊 </h2>
 
-<hr>
-
-[![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=JolanThomassin&layout=compact&theme=dracula)](https://github.com/JolanThomassin/github-readme-stats)
+<div style="display: flex;">
+    <div>
+        <a href="https://skillicons.dev">
+            <img style="margin: 10px" src="https://skillicons.dev/icons?i=py,unity,git,github,azure,sqlite,postgresql,mysql,docker,discord,java,c,cpp,cs,linux,bash,html,css,php,figma,vscode&perline=7" width=650px height=300px alt="My Skills"  align="left"/>
+        </a>
+    </div>
+    <div>
+        <img src="./img/HanabiBook.jpg" width="300px" align="right"/>
+    </div>
+</div>
