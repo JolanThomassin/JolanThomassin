@@ -1,4 +1,4 @@
-![tumblr_okwnk3JfMf1re1fgmo1_640-transformed - Copie](https://github.com/JolanThomassin/JolanThomassin/assets/98430140/335afc53-d8fe-4aba-b9e1-a25503c6fa4d)
+<img src="./img/hollow_knight_banner.jpg"/>  
 
 <h2 align="center"> 🦊 ~ 𝓢𝓴𝓲𝓵𝓵𝓼 ~ 🦊 </h2>
 
