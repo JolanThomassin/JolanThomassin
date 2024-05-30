@@ -9,6 +9,6 @@
         </a>
     </div>
     <div>
-        <img src="./img/HanabiBook.jpg" width="300px" align="right"/>
+        <img src="./img/hollow_knight_square.png" width="300px" align="right"/>
     </div>
 </div>
